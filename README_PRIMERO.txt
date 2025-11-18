@@ -1,9 +1,9 @@
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║          ¡BIENVENIDO AL PROYECTO DE POLÍTICAS DE SEGURIDAD!           ║
+║          ¡BIENVENIDO AL PROYECTO DE POLÍTICAS DE SEGURIDAD!            ║
 ║                                                                        ║
-║                Ingeniería de Seguridad - Unidad 1.3                   ║
-║          Políticas de Seguridad del Puesto de Trabajo                 ║
+║                Ingeniería de Seguridad - Unidad 1.3                    ║
+║             Políticas de Seguridad del Puesto de Trabajo               ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
