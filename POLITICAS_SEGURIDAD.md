@@ -10,11 +10,11 @@ Las políticas han sido diseñadas siguiendo el modelo de INCIBE para pymes, ada
 
 El proceso completo de selección de estas políticas, incluyendo la trazabilidad desde el PDS, está documentado en:
 
-**📋 [Ver Documento de Trazabilidad](TRAZABILIDAD.md)**
+**[Ver Documento de Trazabilidad](TRAZABILIDAD.md)**
 
 ## Políticas Implementadas
 
-### 1️⃣ Política de Protección del Puesto de Trabajo
+### 1. Política de Protección del Puesto de Trabajo
 
 **Estado**: ✅ Obligatoria  
 **Prioridad**: Crítica  
@@ -24,10 +24,12 @@ El proceso completo de selección de estas políticas, incluyendo la trazabilida
 Establece las medidas de seguridad necesarias para proteger los puestos de trabajo de la organización frente a amenazas internas y externas, garantizando la confidencialidad, integridad y disponibilidad de la información.
 
 **Enlaces**:
-- 📄 [Ver Política Completa](politicas/politica_01_proteccion_puesto_trabajo.md)
-- ✅ [Ver Checklist de Cumplimiento](checklists/checklist_politica_01.md)
+
+- [Ver Política Completa](politicas/politica_01_proteccion_puesto_trabajo.md)
+- [Ver Checklist de Cumplimiento](checklists/checklist_politica_01.md)
 
 **Riesgos principales que mitiga**:
+
 - Acceso no autorizado a información sensible
 - Malware y software malicioso
 - Pérdida o robo de dispositivos
@@ -35,7 +37,7 @@ Establece las medidas de seguridad necesarias para proteger los puestos de traba
 
 ---
 
-### 2️⃣ Política de [Nombre de la Segunda Política]
+### 2. Política de [Nombre de la Segunda Política]
 
 **Estado**: Seleccionada  
 **Prioridad**: [Alta/Media]  
@@ -45,15 +47,17 @@ Establece las medidas de seguridad necesarias para proteger los puestos de traba
 [Explicar en 2-3 líneas qué cubre esta política y por qué es importante para la organización]
 
 **Enlaces**:
-- 📄 [Ver Política Completa](politicas/politica_02_nombre.md)
-- ✅ [Ver Checklist de Cumplimiento](checklists/checklist_politica_02.md)
+
+- [Ver Política Completa](politicas/politica_02_nombre.md)
+- [Ver Checklist de Cumplimiento](checklists/checklist_politica_02.md)
 
 **Riesgos principales que mitiga**:
+
 - [Listar 3-5 riesgos principales]
 
 ---
 
-### 3️⃣ Política de [Nombre de la Tercera Política]
+### 3. Política de [Nombre de la Tercera Política]
 
 **Estado**: Seleccionada  
 **Prioridad**: [Alta/Media]  
@@ -63,28 +67,33 @@ Establece las medidas de seguridad necesarias para proteger los puestos de traba
 [Explicar en 2-3 líneas qué cubre esta política y por qué es importante para la organización]
 
 **Enlaces**:
-- 📄 [Ver Política Completa](politicas/politica_03_nombre.md)
-- ✅ [Ver Checklist de Cumplimiento](checklists/checklist_politica_03.md)
+
+- [Ver Política Completa](politicas/politica_03_nombre.md)
+- [Ver Checklist de Cumplimiento](checklists/checklist_politica_03.md)
 
 **Riesgos principales que mitiga**:
+
 - [Listar 3-5 riesgos principales]
 
 ---
 
-### 4️⃣ Política de [Nombre de la Cuarta Política]
+### 4. Política de [Nombre de la Cuarta Política]
 
 **Estado**: Seleccionada  
 **Prioridad**: [Alta/Media]  
 **Alcance**: [Definir alcance]  
 
 **Descripción breve**:  
+
 [Explicar en 2-3 líneas qué cubre esta política y por qué es importante para la organización]
 
 **Enlaces**:
-- 📄 [Ver Política Completa](politicas/politica_04_nombre.md)
-- ✅ [Ver Checklist de Cumplimiento](checklists/checklist_politica_04.md)
+
+- [Ver Política Completa](politicas/politica_04_nombre.md)
+- [Ver Checklist de Cumplimiento](checklists/checklist_politica_04.md)
 
 **Riesgos principales que mitiga**:
+
 - [Listar 3-5 riesgos principales]
 
 ---
@@ -104,11 +113,12 @@ Las cuatro políticas seleccionadas están interrelacionadas y se complementan e
     │                 │             │            │
 ┌───▼────┐      ┌─────▼─────┐  ┌────▼────┐  ┌────▼────┐
 │Polít.2 │      │Política 3 │  │Polít. 4 │  │ Otras   │
-│[Nombre]│      │[Nombre]   │  │[Nombre] │  │(futuro) │
+│[Nombre]│      │[Nombre]   │  │[Nombre] │  │ a Impl. │
 └────────┘      └───────────┘  └─────────┘  └─────────┘
 ```
 
 **Explicar brevemente cómo se relacionan las políticas entre sí**:
+
 - [Ejemplo: La Política 1 establece los requisitos base, y la Política 2 los complementa con...]
 - [Las políticas 3 y 4 se enfocan en aspectos específicos de...]
 

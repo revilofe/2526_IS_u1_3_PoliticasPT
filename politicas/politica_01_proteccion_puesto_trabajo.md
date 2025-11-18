@@ -7,6 +7,7 @@
 **Alcance**: Todos los empleados de la organización con puesto de trabajo asignado
 
 ---
+[Version extendida. Consulta los ejemplos de INCIBE para ver ejemplos de polÍticas]
 
 ## 1. Antecedentes
 
@@ -23,20 +24,20 @@
 
 ### 1.2. Elementos Clave del Puesto de Trabajo Afectados
 
-| Elemento | Tipo | Criticidad | Justificación |
-|----------|------|------------|---------------|
-| [Completar según vuestro PDS] | Hardware/Software/Info | Alta/Media | [Explicar por qué es crítico] |
-| | | | |
+| Elemento                      | Tipo                    | Criticidad  | Justificación                 |
+|-------------------------------|-------------------------|-------------|-------------------------------|
+| [Completar según vuestro PDS] | Hardware/Software/Info  | Alta/Media  | [Explicar por qué es crítico] |
+|                               |                         |             |                               |
 
 **EJEMPLO**:
 
-| Elemento | Tipo | Criticidad | Justificación |
-|----------|------|------------|---------------|
-| Portátiles corporativos | Hardware | Muy Alta | Contienen repositorios de código, credenciales de acceso a sistemas de producción y datos de clientes |
-| Estaciones de trabajo | Hardware | Alta | Utilizadas para desarrollo y pruebas, con acceso a entornos de pre-producción |
-| Entorno de desarrollo (IDE, Git) | Software | Muy Alta | Herramientas críticas para la operación diaria, contienen propiedad intelectual |
-| Credenciales de acceso | Información | Crítica | Permiten acceso a sistemas de control de versiones, servidores, bases de datos |
-| VPN corporativa | Software | Alta | Única vía de acceso remoto seguro a la red interna |
+| Elemento                         | Tipo        | Criticidad  | Justificación                                                                                         |
+|----------------------------------|-------------|-------------|-------------------------------------------------------------------------------------------------------|
+| Portátiles corporativos          | Hardware    | Muy Alta    | Contienen repositorios de código, credenciales de acceso a sistemas de producción y datos de clientes |
+| Estaciones de trabajo            | Hardware    | Alta        | Utilizadas para desarrollo y pruebas, con acceso a entornos de pre-producción                         |
+| Entorno de desarrollo (IDE, Git) | Software    | Muy Alta    | Herramientas críticas para la operación diaria, contienen propiedad intelectual                       |
+| Credenciales de acceso           | Información | Crítica     | Permiten acceso a sistemas de control de versiones, servidores, bases de datos                        |
+| VPN corporativa                  | Software    | Alta        | Única vía de acceso remoto seguro a la red interna                                                    |
 
 ### 1.3. Escenarios de Riesgo
 
@@ -61,7 +62,7 @@
 
 **Nivel de Riesgo**: [Crítico/Alto/Medio/Bajo]
 
----
+
 
 **EJEMPLO COMPLETO**:
 
@@ -83,7 +84,7 @@
 
 **Nivel de Riesgo**: **CRÍTICO**
 
----
+
 
 #### Riesgo 2: [Completar]
 
@@ -117,7 +118,7 @@ Esta política se fundamenta en:
 - **Guía INCIBE**: "Política de Protección del Puesto de Trabajo para Pymes"
 - **CCN-STIC 417**: Seguridad en equipos informáticos
 
----
+
 
 ## 2. Objetivos
 
@@ -144,7 +145,7 @@ Esta política se fundamenta en:
 
 5. **Fomentar una cultura de seguridad**: Concienciar y formar al personal para que actúe como primera línea de defensa frente a amenazas.
 
----
+
 
 ## 3. Puntos Clave
 
@@ -194,7 +195,7 @@ Esta política se fundamenta en:
 
 [Desarrollar programa de formación específico]
 
----
+
 
 ## 4. Alcance y Aplicabilidad
 
@@ -202,40 +203,43 @@ Esta política se fundamenta en:
 
 > **INSTRUCCIÓN**: Definir claramente qué incluye y qué excluye esta política.
 
-| Elemento | Incluye | Excluye |
-|----------|---------|---------|
-| **Personal** | [Definir] | [Definir] |
-| **Equipos** | [Definir] | [Definir] |
+| Elemento        | Incluye   | Excluye   |
+|-----------------|-----------|-----------|
+| **Personal**    | [Definir] | [Definir] |
+| **Equipos**     | [Definir] | [Definir] |
 | **Ubicaciones** | [Definir] | [Definir] |
 | **Información** | [Definir] | [Definir] |
 
 **EJEMPLO**:
 
-| Elemento | Incluye | Excluye |
-|----------|---------|---------|
-| **Personal** | Todos los empleados, contratistas, becarios con asignación de puesto de trabajo | Visitantes ocasionales, personal de mantenimiento externo |
-| **Equipos** | Portátiles corporativos, estaciones de trabajo, tablets corporativos asignados | Dispositivos personales (BYOD), equipos de sala de reuniones compartidos |
-| **Ubicaciones** | Oficina central, teletrabajo, oficinas de clientes autorizadas | Espacios públicos (cafeterías, aeropuertos) - política específica |
-| **Información** | Toda información corporativa: código fuente, datos de clientes, información comercial | Información pública, datos anonimizados para análisis |
+| Elemento        | Incluye                                                                               | Excluye                                                                  |
+|-----------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| **Personal**    | Todos los empleados, contratistas, becarios con asignación de puesto de trabajo       | Visitantes ocasionales, personal de mantenimiento externo                |
+| **Equipos**     | Portátiles corporativos, estaciones de trabajo, tablets corporativos asignados        | Dispositivos personales (BYOD), equipos de sala de reuniones compartidos |
+| **Ubicaciones** | Oficina central, teletrabajo, oficinas de clientes autorizadas                        | Espacios públicos (cafeterías, aeropuertos) - política específica        |
+| **Información** | Toda información corporativa: código fuente, datos de clientes, información comercial | Información pública, datos anonimizados para análisis                    |
 
 ### 4.2. Roles y Responsabilidades
 
 > **INSTRUCCIÓN**: Adaptar roles a vuestra organización específica.
 
-| Rol | Responsabilidades |
-|-----|-------------------|
-| **Dirección** | [Definir] |
-| **Responsable de Seguridad** | [Definir] |
-| **Departamento IT** | [Definir] |
-| **Jefes de Proyecto/Departamento** | [Definir] |
-| **Empleados** | [Definir] |
+| Rol                                | Responsabilidades  |
+|------------------------------------|--------------------|
+| **Dirección**                      | [Definir]          |
+| **Responsable de Seguridad**       | [Definir]          |
+| **Departamento IT**                | [Definir]          |
+| **Jefes de Proyecto/Departamento** | [Definir]          |
+| **Empleados**                      | [Definir]          |
 
----
+
 
 ## 5. Medidas de Seguridad Detalladas
 
 > **INSTRUCCIÓN**: Desarrollar aquí las medidas concretas que luego se verificarán en el checklist.
 > Deben ser medidas **específicas, claras y verificables**.
+> Tener en cuenta que muchas de estas medidas se desarrollarán en otras politicas específicas,
+> por lo que aquí deben centrarse en las relacionadas con la protección del puesto de trabajo. Por ejemplo,
+> no incluir medidas de gestión de incidentes o auditoría que se desarrollarán en otras políticas.
 
 ### 5.1. Medidas de Nivel Básico (Obligatorias)
 
@@ -254,19 +258,16 @@ Esta política se fundamenta en:
 
 **Verificación**: Checklist control #1.1
 
----
 
 #### Medida B-02: [Siguiente medida]
 
 [Continuar con todas las medidas básicas necesarias]
 
----
 
 ### 5.2. Medidas de Nivel Avanzado (Recomendadas)
 
 [Desarrollar medidas avanzadas]
 
----
 
 ## 6-13. [Completar las demás secciones de la plantilla]
 

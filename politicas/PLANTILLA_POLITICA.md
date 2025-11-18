@@ -24,13 +24,13 @@
 
 Identificar los elementos críticos que esta política busca proteger:
 
-| Elemento | Tipo | Criticidad | Justificación |
-|----------|------|------------|---------------|
-| [Ej: Equipos portátiles] | Hardware | Alta | [Contienen información de clientes y credenciales] |
-| [Ej: Aplicación ERP] | Software | Muy Alta | [Gestiona toda la operativa fiscal] |
-| [Ej: Credenciales de acceso] | Información | Muy Alta | [Permiten acceso a sistemas críticos] |
-| [Ej: Documentación de clientes] | Información | Muy Alta | [Datos personales y financieros protegidos por RGPD] |
-| [...] | [...] | [...] | [...] |
+| Elemento                        | Tipo        | Criticidad  | Justificación                                        |
+|---------------------------------|-------------|-------------|------------------------------------------------------|
+| [Ej: Equipos portátiles]        | Hardware    | Alta        | [Contienen información de clientes y credenciales]   |
+| [Ej: Aplicación ERP]            | Software    | Muy Alta    | [Gestiona toda la operativa fiscal]                  |
+| [Ej: Credenciales de acceso]    | Información | Muy Alta    | [Permiten acceso a sistemas críticos]                |
+| [Ej: Documentación de clientes] | Información | Muy Alta    | [Datos personales y financieros protegidos por RGPD] |
+| [...]                           | [...]       | [...]       | [...]                                                |
 
 ### 1.3. Escenarios de Riesgo
 
@@ -83,7 +83,7 @@ Esta política se fundamenta en:
 - **Guía INCIBE**: [Nombre de la guía de referencia]
 - **Otras normativas aplicables**: [Normativa sectorial si aplica]
 
----
+
 
 ## 2. Objetivos
 
@@ -107,7 +107,7 @@ Esta política se fundamenta en:
 > 3. **Proteger contra malware**: Implementar defensas que detecten y neutralicen software malicioso antes de que comprometa los sistemas.
 > 4. **Garantizar recuperación**: Asegurar que la información crítica pueda recuperarse en caso de incidente.
 
----
+
 
 ## 3. Puntos Clave
 
@@ -144,7 +144,7 @@ Esta política se fundamenta en:
 
 ### 3.5. [Más categorías según sea necesario]
 
----
+
 
 ## 4. Alcance y Aplicabilidad
 
@@ -152,25 +152,25 @@ Esta política se fundamenta en:
 
 Esta política aplica a:
 
-| Elemento | Incluye | Excluye |
-|----------|---------|---------|
-| **Personal** | [Ej: Todos los empleados, contratistas, becarios] | [Ej: Visitantes ocasionales] |
-| **Equipos** | [Ej: Portátiles, PCs de sobremesa, tablets corporativos] | [Ej: Dispositivos personales no autorizados] |
-| **Ubicaciones** | [Ej: Oficinas, teletrabajo, oficinas cliente] | [Ej: N/A] |
-| **Información** | [Ej: Toda información corporativa clasificada como "Confidencial" o superior] | [Ej: Información pública] |
+| Elemento        | Incluye                                                                       | Excluye                                      |
+|-----------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| **Personal**    | [Ej: Todos los empleados, contratistas, becarios]                             | [Ej: Visitantes ocasionales]                 |
+| **Equipos**     | [Ej: Portátiles, PCs de sobremesa, tablets corporativos]                      | [Ej: Dispositivos personales no autorizados] |
+| **Ubicaciones** | [Ej: Oficinas, teletrabajo, oficinas cliente]                                 | [Ej: N/A]                                    |
+| **Información** | [Ej: Toda información corporativa clasificada como "Confidencial" o superior] | [Ej: Información pública]                    |
 
 ### 4.2. Roles y Responsabilidades
 
-| Rol | Responsabilidades |
-|-----|-------------------|
-| **Dirección** | - Aprobar la política<br>- Asignar recursos<br>- Supervisar cumplimiento general |
-| **Responsable de Seguridad / DPO** | - Mantener actualizada la política<br>- Auditar cumplimiento<br>- Gestionar incidentes<br>- Coordinar formación |
-| **Departamento IT** | - Implementar controles técnicos<br>- Configurar sistemas<br>- Mantener actualizaciones<br>- Soporte técnico |
-| **Jefes de Departamento** | - Asegurar cumplimiento en su área<br>- Identificar necesidades específicas<br>- Reportar incidentes |
-| **Empleados** | - Conocer y cumplir la política<br>- Reportar anomalías<br>- Asistir a formaciones<br>- Uso responsable de recursos |
-| **[Otros roles específicos]** | [...] |
+| Rol                                 | Responsabilidades                                                                                                      |
+|-------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Dirección**                       | - Aprobar la política<br>- Asignar recursos<br>- Supervisar cumplimiento general                                       |
+| **Responsable de Seguridad / DPO**  | - Mantener actualizada la política<br>- Auditar cumplimiento<br>- Gestionar incidentes<br>- Coordinar formación        |
+| **Departamento IT**                 | - Implementar controles técnicos<br>- Configurar sistemas<br>- Mantener actualizaciones<br>- Soporte técnico           |
+| **Jefes de Departamento**           | - Asegurar cumplimiento en su área<br>- Identificar necesidades específicas<br>- Reportar incidentes                   |
+| **Empleados**                       | - Conocer y cumplir la política<br>- Reportar anomalías<br>- Asistir a formaciones<br>- Uso responsable de recursos    |
+| **[Otros roles específicos]**       | [...]                                                                                                                  |
 
----
+
 
 ## 5. Medidas de Seguridad Detalladas
 
@@ -214,7 +214,7 @@ Esta política aplica a:
 
 [Continuar con todas las medidas avanzadas...]
 
----
+
 
 ## 6. Excepciones y Procedimiento de Gestión
 
@@ -242,18 +242,18 @@ Todas las excepciones aprobadas se registrarán indicando:
 - Medidas compensatorias
 - Fecha de revisión
 
----
+
 
 ## 7. Formación y Concienciación
 
 ### 7.1. Programa de Formación
 
-| Público | Contenido | Frecuencia | Duración | Responsable |
-|---------|-----------|------------|----------|-------------|
-| Nuevos empleados | Introducción a la política, medidas básicas | Al incorporarse | [X horas] | RRHH + IT |
-| Todo el personal | Actualización anual, nuevas amenazas | Anual | [X horas] | Responsable Seg. |
-| Personal IT | Formación técnica avanzada | Semestral | [X horas] | Responsable Seg. |
-| [Otros grupos] | [...] | [...] | [...] | [...] |
+| Público          | Contenido                                   | Frecuencia      | Duración  | Responsable      |
+|------------------|---------------------------------------------|-----------------|-----------|------------------|
+| Nuevos empleados | Introducción a la política, medidas básicas | Al incorporarse | [X horas] | RRHH + IT        |
+| Todo el personal | Actualización anual, nuevas amenazas        | Anual           | [X horas] | Responsable Seg. |
+| Personal IT      | Formación técnica avanzada                  | Semestral       | [X horas] | Responsable Seg. |
+| [Otros grupos]   | [...]                                       | [...]           | [...]     | [...]            |
 
 ### 7.2. Materiales de Concienciación
 
@@ -263,27 +263,27 @@ Todas las excepciones aprobadas se registrarán indicando:
 - Intranet con recursos y FAQs
 - [Otros materiales]
 
----
+
 
 ## 8. Auditoría y Control de Cumplimiento
 
 ### 8.1. Auditorías Programadas
 
-| Tipo de Auditoría | Frecuencia | Responsable | Método |
-|-------------------|------------|-------------|--------|
-| Auditoría técnica | Trimestral | IT + Resp. Seg. | Uso del checklist, análisis de logs |
-| Auditoría de procesos | Semestral | Resp. Seg. | Revisión documental, entrevistas |
-| Auditoría de concienciación | Anual | RRHH + Resp. Seg. | Encuestas, tests |
+| Tipo de Auditoría           | Frecuencia  | Responsable       | Método                              |
+|-----------------------------|-------------|-------------------|-------------------------------------|
+| Auditoría técnica           | Trimestral  | IT + Resp. Seg.   | Uso del checklist, análisis de logs |
+| Auditoría de procesos       | Semestral   | Resp. Seg.        | Revisión documental, entrevistas    |
+| Auditoría de concienciación | Anual       | RRHH + Resp. Seg. | Encuestas, tests                    |
 
 ### 8.2. Indicadores de Cumplimiento (KPIs)
 
-| Indicador | Fórmula | Objetivo | Medición |
-|-----------|---------|----------|----------|
-| % Equipos configurados correctamente | (Equipos conformes / Total equipos) × 100 | ≥ 95% | Mensual |
-| % Personal formado | (Personal formado / Total personal) × 100 | 100% | Trimestral |
-| Tiempo medio de aplicación de parches críticos | Promedio días desde publicación | ≤ 7 días | Mensual |
-| Nº incidentes de seguridad relacionados | Suma de incidentes del periodo | Tendencia ↓ | Mensual |
-| [Otros indicadores] | [...] | [...] | [...] |
+| Indicador                                      | Fórmula                                   | Objetivo    | Medición   |
+|------------------------------------------------|-------------------------------------------|-------------|------------|
+| % Equipos configurados correctamente           | (Equipos conformes / Total equipos) × 100 | ≥ 95%       | Mensual    |
+| % Personal formado                             | (Personal formado / Total personal) × 100 | 100%        | Trimestral |
+| Tiempo medio de aplicación de parches críticos | Promedio días desde publicación           | ≤ 7 días    | Mensual    |
+| Nº incidentes de seguridad relacionados        | Suma de incidentes del periodo            | Tendencia ↓ | Mensual    |
+| [Otros indicadores]                            | [...]                                     | [...]       | [...]      |
 
 ### 8.3. Uso del Checklist
 
@@ -294,18 +294,17 @@ El checklist asociado a esta política ([ver checklist](../checklists/checklist_
 - **Cambios en configuración**: Después de cualquier cambio significativo
 - **Incidentes de seguridad**: Como parte de la investigación post-incidente
 
----
 
 ## 9. Gestión de Incidentes
 
 ### 9.1. Clasificación de Incidentes Relacionados
 
-| Categoría | Ejemplos | Gravedad | Tiempo de Respuesta |
-|-----------|----------|----------|---------------------|
-| Crítico | Compromiso masivo de credenciales, ransomware | Muy Alta | Inmediata (< 1h) |
-| Alto | Detección de malware, acceso no autorizado | Alta | Urgente (< 4h) |
-| Medio | Incumplimiento de controles, configuración incorrecta | Media | Normal (< 24h) |
-| Bajo | Dudas sobre procedimiento, solicitudes información | Baja | Rutinario (< 72h) |
+| Categoría  | Ejemplos                                              | Gravedad  | Tiempo de Respuesta  |
+|------------|-------------------------------------------------------|-----------|----------------------|
+| Crítico    | Compromiso masivo de credenciales, ransomware         | Muy Alta  | Inmediata (< 1h)     |
+| Alto       | Detección de malware, acceso no autorizado            | Alta      | Urgente (< 4h)       |
+| Medio      | Incumplimiento de controles, configuración incorrecta | Media     | Normal (< 24h)       |
+| Bajo       | Dudas sobre procedimiento, solicitudes información    | Baja      | Rutinario (< 72h)    |
 
 ### 9.2. Procedimiento de Reporte
 
@@ -324,7 +323,7 @@ El checklist asociado a esta política ([ver checklist](../checklists/checklist_
 - **Herramienta**: [Sistema de tickets si existe]
 - **Presencial**: Responsable de Seguridad - Despacho [X]
 
----
+
 
 ## 10. Revisión y Actualización de la Política
 
@@ -349,12 +348,12 @@ El checklist asociado a esta política ([ver checklist](../checklists/checklist_
 
 ### 10.3. Control de Versiones
 
-| Versión | Fecha | Cambios Principales | Aprobado por |
-|---------|-------|---------------------|--------------|
-| 1.0 | [DD/MM/YYYY] | Versión inicial | [Nombre] |
-| [...] | [...] | [...] | [...] |
+| Versión  | Fecha        | Cambios Principales  | Aprobado por  |
+|----------|--------------|----------------------|---------------|
+| 1.0      | [DD/MM/YYYY] | Versión inicial      | [Nombre]      |
+| [...]    | [...]        | [...]                | [...]         |
 
----
+
 
 ## 11. Sanciones por Incumplimiento
 
@@ -375,17 +374,17 @@ Según la gravedad y de acuerdo con la legislación laboral vigente:
 
 **Nota**: Las medidas se aplicarán conforme al convenio colectivo aplicable y tras el procedimiento disciplinario correspondiente.
 
----
+
 
 ## 12. Glosario
 
-| Término | Definición |
-|---------|----------|
-| [Término técnico 1] | [Definición adaptada al contexto] |
-| [Término técnico 2] | [Definición] |
-| [...] | [...] |
+| Término              | Definición                         |
+|----------------------|------------------------------------|
+| [Término técnico 1]  | [Definición adaptada al contexto]  |
+| [Término técnico 2]  | [Definición]                       |
+| [...]                | [...]                              |
 
----
+
 
 ## 13. Anexos
 
