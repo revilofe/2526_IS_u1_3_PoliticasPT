@@ -10,7 +10,7 @@ En el PDS, se identificaron los activos prioritarios de la organización, se ana
 
 La empresa subcontrata a nuestro equipo como consultores de ciberseguridad para desarrollar e implementar una política integral de protección del puesto de trabajo. El trabajo consiste en:
 
-1. Identificar los puestos de trabajo clave, los elementos críticos (activos) asociados y los principales escenarios de riesgo
+1. Identificar los puestos de trabajo clave, los elementos del PT críticos (activos) asociados y los principales escenarios de riesgo
 2. Seleccionar las políticas de seguridad de mayor impacto y despliegue más rápido para la organización
 3. Definir y documentar al menos **cuatro políticas de seguridad**, siguiendo el esquema de INCIBE, adaptadas al contexto concreto de la empresa
 
@@ -26,7 +26,7 @@ Documentar el **proceso de toma de decisiones** que ha llevado a seleccionar las
 
 ### 2. Desarrollo de Políticas
 
-Crear **al menos cuatro políticas de seguridad**:
+De todas las políticas, crear **al menos cuatro políticas de seguridad**:
 
 - **Obligatoria**: Política de Protección del Puesto de Trabajo (política central)
 - **Tres adicionales**, que pueden ser:
@@ -120,15 +120,15 @@ Resumen estructurado de las medidas más importantes de la política, adaptadas 
 
 ## Criterios de Evaluación
 
-| Criterio | Peso | Descripción |
-|----------|------|-------------|
-| **Trazabilidad** | 20% | Conexión clara y documentada con el PDS. Justificación sólida del proceso de selección. |
-| **Adaptación** | 25% | Las políticas están completamente adaptadas a la empresa específica, no son genéricas. |
-| **Antecedentes** | 15% | Identificación completa de elementos clave y escenarios de riesgo relevantes. |
-| **Objetivos** | 10% | Objetivos claros, concisos y alineados con los antecedentes. |
-| **Puntos Clave** | 15% | Medidas específicas, prácticas y proporcionales a los riesgos. |
-| **Checklist** | 10% | Controles verificables, bien clasificados por nivel y alcance. |
-| **Presentación** | 5% | Formato profesional, estructura clara, sin errores ortográficos. |
+| Criterio          | Descripción                                                                               |
+|-------------------|-------------------------------------------------------------------------------------------|
+| **-Trazabilidad** | Conexión clara y documentada con el PDS. Justificación sólida del proceso de selección.   |
+| **Adaptación**    | Las políticas están completamente adaptadas a la empresa específica, no son genéricas.    |
+| **-Antecedentes** | Identificación completa de elementos clave y escenarios de riesgo relevantes.             |
+| **-Objetivos**    | Objetivos claros, concisos y alineados con los antecedentes.                              |
+| **-Puntos Clave** | Medidas específicas, prácticas y proporcionales a los riesgos.                            |
+| **-Checklist**    | Controles verificables, bien clasificados por nivel y alcance.                            |
+| **Presentación**  | Formato profesional, estructura clara, sin errores ortográficos.                          |
 
 ## Recursos de Apoyo
 
@@ -158,7 +158,3 @@ Los siguientes ejemplos están disponibles en la carpeta `.recursos/`:
 ## Fecha de Entrega
 
 [Especificar fecha límite]
-
----
-
-**Nota**: Este trabajo representa la culminación del análisis realizado en el PDS. Debe demostrar la capacidad para traducir un análisis de riesgos en políticas de seguridad concretas, prácticas y adaptadas a una organización específica.

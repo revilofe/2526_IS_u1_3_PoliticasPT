@@ -30,7 +30,7 @@ Cada política debe incluir:
   • Objetivos claros
   • Puntos clave (medidas de seguridad)
   • Checklist de verificación
-
+El resto  de puntos que viene en las plantillas, son opcionales.
 
 📚 ¿POR DÓNDE EMPEZAR?
 ═══════════════════════════════════════════════════════════════════════
@@ -135,8 +135,10 @@ Sigue este orden:
 ═══════════════════════════════════════════════════════════════════════
 
 ✅ SÍ hacer:
-   • Adaptar TODO a tu empresa específica
-   • Usar datos concretos y números reales
+   • Adaptar TODO a tu empresa específicaINCIBE
+   • Adaptar LAS PLANTILLAS, no es fijo, pero respeta lo que debes entregar.
+   - Las políticas del INCIBE son una buena referencia.
+   • Usar datos concretos y números "reales"
    • Referenciar constantemente el PDS
    • Redactar con tus propias palabras
    • Justificar cada decisión
@@ -148,20 +150,6 @@ Sigue este orden:
    • Inventar datos sin justificación
 
 
-🎯 CRITERIOS DE EVALUACIÓN
-═══════════════════════════════════════════════════════════════════════
-
-  📊 Trazabilidad (20%)    → PDS → Políticas → Controles
-  🎯 Adaptación (25%)      → Específico, no genérico
-  📝 Antecedentes (15%)    → Riesgos bien identificados
-  🎪 Objetivos (10%)       → Claros y alineados
-  🔧 Puntos Clave (15%)    → Medidas específicas
-  ✅ Checklist (10%)       → Controles verificables
-  📄 Presentación (5%)     → Formato profesional
-
-  Meta: ≥ 90% cumplimiento en controles básicos
-
-
 📞 ¿NECESITAS AYUDA?
 ═══════════════════════════════════════════════════════════════════════
 
@@ -170,8 +158,7 @@ Consulta en este orden:
   1. GUIA_RAPIDA.md (FAQs al final)
   2. politica_01_proteccion_puesto_trabajo.md (ejemplo completo)
   3. checklist_politica_01.md (ejemplo de checklist)
-  4. RESUMEN_MATERIAL_CREADO.md (visión general)
-  5. .recursos/ (ejemplos de INCIBE)
+  4. .recursos/ (ejemplos de INCIBE)
 
 
 ═══════════════════════════════════════════════════════════════════════

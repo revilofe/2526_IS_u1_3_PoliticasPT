@@ -88,9 +88,6 @@
 │  └─ ... (28 políticas más de INCIBE)
 │
 └─📝 OTROS DOCUMENTOS
-   ├── descripcion.txt            (Descripción original del ejercicio)
-   ├── redaccion1.md              (Redacción versión 1)
-   ├── redaccion2.md              (Redacción versión 2)
    └── RESUMEN_MATERIAL_CREADO.md (Este resumen completo)
 
 ═══════════════════════════════════════════════════════════════════════════════

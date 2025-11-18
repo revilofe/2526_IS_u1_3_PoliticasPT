@@ -20,13 +20,13 @@ Este repositorio contiene las plantillas y estructura para desarrollar **4 polí
 ```
 2526_IS_u1_3_PoliticasPT/
 │
-├── README.md                    ✅ CREADO - Descripción general del proyecto
-├── TRAZABILIDAD.md              ✅ CREADO - Plantilla para documentar selección
-├── POLITICAS_SEGURIDAD.md       ✅ CREADO - Índice navegable de políticas
-├── GUIA_RAPIDA.md              ✅ CREADO - Este documento
+├── README.md                    - Descripción general del proyecto
+├── TRAZABILIDAD.md              - Plantilla para documentar selección
+├── POLITICAS_SEGURIDAD.md       - Índice navegable de políticas
+├── GUIA_RAPIDA.md               - Este documento
 │
 ├── politicas/
-│   ├── PLANTILLA_POLITICA.md                        ✅ Plantilla genérica
+│   ├── PLANTILLA_POLITICA.md                       ✅ Plantilla genérica
 │   ├── politica_01_proteccion_puesto_trabajo.md    ✅ Ejemplo con instrucciones
 │   ├── politica_02_[nombre].md                     ⚠️ POR COMPLETAR
 │   ├── politica_03_[nombre].md                     ⚠️ POR COMPLETAR
@@ -157,8 +157,6 @@ Este repositorio contiene las plantillas y estructura para desarrollar **4 polí
 - [ ] No hay errores ortográficos o gramaticales
 - [ ] El formato es consistente en todos los documentos
 
----
-
 ## 💡 Consejos y Recomendaciones
 
 ### ✅ Buenas Prácticas
@@ -209,7 +207,7 @@ Este repositorio contiene las plantillas y estructura para desarrollar **4 polí
    - Si la política dice "cifrado obligatorio", debe haber un control que lo verifique
    - Si hay un control en el checklist, debe corresponder a una medida de la política
 
----
+
 
 ## 🎯 Políticas Sugeridas (además de la #1)
 
@@ -234,15 +232,12 @@ Basándoos en vuestro PDS, podéis elegir entre:
 
 **Criterio de selección**: Elegid las que tengan **mayor impacto** sobre los **riesgos más críticos** identificados en vuestro PDS.
 
----
+
 
 ## 📚 Recursos Disponibles
 
 ### En este repositorio
 
-- `descripcion.txt` - Requisitos del ejercicio
-- `redaccion1.md` - Primera versión de la redacción del ejercicio
-- `redaccion2.md` - Segunda versión mejorada
 - `.recursos/` - **34 políticas de ejemplo de INCIBE** con sus checklists
 
 ### Enlaces Externos
@@ -252,7 +247,7 @@ Basándoos en vuestro PDS, podéis elegir entre:
 - ISO/IEC 27001:2022 - Consultar controles aplicables
 - INCIBE - Guías de ciberseguridad para pymes
 
----
+
 
 ## 🤔 Preguntas Frecuentes
 
@@ -298,6 +293,7 @@ En TRAZABILIDAD.md, sección 5.2, explicad brevemente:
 1. **Leer toda esta guía** completa
 2. **Revisar el README.md** principal
 3. **Estudiar TRAZABILIDAD.md** (plantilla)
+4. **Estudiar POLITICAS_SEGURIDAD.md** (índice)
 4. **Examinar politica_01_proteccion_puesto_trabajo.md** (ejemplo con instrucciones)
 5. **Revisar ejemplos de INCIBE** en `.recursos/`
 6. **Empezar a trabajar** siguiendo el proceso de las 5 fases
@@ -316,5 +312,5 @@ Recordad:
 
 ---
 
-**Última actualización**: [Fecha de hoy]  
-**Contacto**: [Vuestro profesor/tutor]
+**Última actualización**: 01/11/2025
+**Contacto**: @revilofe
