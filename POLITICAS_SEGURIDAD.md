@@ -95,17 +95,17 @@ Las cuatro políticas seleccionadas están interrelacionadas y se complementan e
 
 ```
 ┌─────────────────────────────────────────────────┐
-│  Protección del Puesto de Trabajo (CENTRAL)    │
-│  - Medidas básicas de seguridad                │
-│  - Configuración segura de equipos             │
+│   Protección del Puesto de Trabajo (CENTRAL)    │
+│     - Medidas básicas de seguridad              │
+│     - Configuración segura de equipos           │
 └────────────┬────────────────────────────────────┘
              │
-    ┌────────┴────────┬──────────────┬────────────┐
-    │                 │              │            │
-┌───▼───┐      ┌─────▼─────┐  ┌────▼────┐  ┌────▼────┐
-│Polít.2│      │Política 3 │  │Polít. 4 │  │ Otras   │
-│[Nombre]      │[Nombre]   │  │[Nombre] │  │(futuro) │
-└───────┘      └───────────┘  └─────────┘  └─────────┘
+    ┌────────┴────────┬─────────────┬────────────┐
+    │                 │             │            │
+┌───▼────┐      ┌─────▼─────┐  ┌────▼────┐  ┌────▼────┐
+│Polít.2 │      │Política 3 │  │Polít. 4 │  │ Otras   │
+│[Nombre]│      │[Nombre]   │  │[Nombre] │  │(futuro) │
+└────────┘      └───────────┘  └─────────┘  └─────────┘
 ```
 
 **Explicar brevemente cómo se relacionan las políticas entre sí**:
@@ -114,14 +114,14 @@ Las cuatro políticas seleccionadas están interrelacionadas y se complementan e
 
 ## Resumen de Cobertura
 
-| Aspecto | Política(s) Responsable(s) |
-|---------|---------------------------|
-| Seguridad física de equipos | Política 1 |
-| Configuración de software | Política 1, Política 2 |
-| Control de accesos | Política 1, Política 3 |
-| Gestión de credenciales | Política 1, Política 3 |
-| Formación y concienciación | Política 4 |
-| [Otros aspectos...] | [...] |
+| Aspecto                     | Política(s) Responsable(s) |
+|-----------------------------|----------------------------|
+| Seguridad física de equipos | Política 1                 |
+| Configuración de software   | Política 1, Política 2     |
+| Control de accesos          | Política 1, Política 3     |
+| Gestión de credenciales     | Política 1, Política 3     |
+| Formación y concienciación  | Política 4                 |
+| [Otros aspectos...]         | [...]                      |
 
 ## Niveles de Cumplimiento
 
@@ -160,13 +160,13 @@ Y por tres alcances:
 
 ## Responsabilidades
 
-| Rol | Responsabilidades |
-|-----|-------------------|
-| **Dirección** | Aprobar políticas, asignar recursos, supervisar cumplimiento |
-| **Responsable de Seguridad** | Coordinar implementación, auditar, actualizar políticas |
-| **Responsables IT** | Implementar controles técnicos, configurar sistemas |
-| **Jefes de Departamento** | Asegurar cumplimiento en su área, formar a su equipo |
-| **Todos los empleados** | Conocer y cumplir las políticas aplicables a su puesto |
+| Rol                          | Responsabilidades                                            |
+|------------------------------|--------------------------------------------------------------|
+| **Dirección**                | Aprobar políticas, asignar recursos, supervisar cumplimiento |
+| **Responsable de Seguridad** | Coordinar implementación, auditar, actualizar políticas      |
+| **Responsables IT**          | Implementar controles técnicos, configurar sistemas          |
+| **Jefes de Departamento**    | Asegurar cumplimiento en su área, formar a su equipo         |
+| **Todos los empleados**      | Conocer y cumplir las políticas aplicables a su puesto       |
 
 ## Auditoría y Seguimiento
 
@@ -179,10 +179,10 @@ Las políticas serán auditadas mediante:
 
 ## Actualizaciones y Versiones
 
-| Versión | Fecha | Cambios |
-|---------|-------|---------|
-| 1.0 | [DD/MM/YYYY] | Versión inicial - 4 políticas implementadas |
-| ... | ... | ... |
+| Versión  | Fecha        | Cambios                                     |
+|----------|--------------|---------------------------------------------|
+| 1.0      | [DD/MM/YYYY] | Versión inicial - 4 políticas implementadas |
+| ...      | ...          | ...                                         |
 
 ## Políticas Complementarias (Futuro)
 
