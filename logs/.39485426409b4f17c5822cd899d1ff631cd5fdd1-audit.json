@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/usuario/Documentos/workspace/IdeaProjects/2526_IS_u1_3_PoliticasPT/logs/.39485426409b4f17c5822cd899d1ff631cd5fdd1-audit.json",
+    "files": [
+        {
+            "date": 1763481749480,
+            "name": "/home/usuario/Documentos/workspace/IdeaProjects/2526_IS_u1_3_PoliticasPT/logs/mcp-puppeteer-2025-11-18.log",
+            "hash": "3fd1288ef733b3b89ac1815ea465e939ee3ac9d02732366e65c5d01974b48752"
+        }
+    ],
+    "hashType": "sha256"
+}

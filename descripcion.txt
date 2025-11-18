@@ -1,0 +1,34 @@
+Tienes esta información, en la que se explica todo sobre la generación de politicas:
+
+https://revilofe.github.io/section2/u01/teoria/IS-U1.3.1.-ProteccionDelPuestoDeTrabajo/
+
+Previamente, cada grupo habrá hecho en https://github.com/revilofe/2526_IS_u1_2_PDS/blob/master/README.md un plan director de seguridad en donde uno de los principales proyectos habra sido trabajar en un conjunto de politicas de seguridad para la organización.
+
+En este PDS habrán identificado los activos prioritarios, y habŕan identificados los distintos puestos de trabajos. Y posiblemente los riesgos asociados a ellos.
+
+Este trabajo previo será el que se establecerá como base para identificar aquellas polÍticas de seguridad de mayor impacto en la organización.
+
+La actividad consiste dejar constancia de la trazabilidad de como se han llegado a decidir las polÍticas a implementar. Es decir,  después de identificar puestos de trabajo y elementos clave del puesto de trabajo (activos) y posibles riesgos, identificar cuales son aquellas políticas de mayor impacto y mas rápido en la empresa. 
+
+
+EL PLANTEAMIENTO ES EL SIGUIENTE:
+La empresa nos subcontrata, como uno de los proyectos del plan director de seguridad, la realización de una política de seguridad del puesto de trabajo.
+
+Debe identificar varios puestos de trabajo, identificando elementos clave y escenarios de riesgos que puedan darse. Identificar aquellos de mayor riesgo y decidir el conjunto de politicas a implementar.
+De ese conjunto de politicas, elegir 4 y desarrollarlas. De las políticas de seguridad a desarrollar, puedes decidir entre  generales o centrada en los puestos de trabajo mas críticos identificados. 
+Crear Checklists para validar dichas políticas, contemplando nivel y alcance.
+
+ATENCIÓN: Sigue el esquema presentado por INCIBE en los documentos que propone como políticas de seguridad para las pyme. (paso varios ejemplos ajuntos)
+
+Evaluación
+OBJETIVOS: Identifica y crea al menos cuatro políticas: La "Política del puesto de trabajo" + tres adicionales relacionadas con el puesto de trabajo o generales. Define una política clara (objetivos) y muy importante: ADAPTADADAS A LA EMPRESA QUE ESTAMOS TRATANDO.
+ANTECEDENTES: Para cada política, Identifica elementos clave del puesto de trabajo y escenarios de riesgos (antecedentes) que las justifica la aplicación de la política.
+PUNTOS CLAVE: Para cada política, los puntos de normativa relacionados con medidas a seguir para cubrir riesgos.
+CHECKLIST:  Para cada política, define una checklist que garantiza que se cubren los puntos clave (medidas) de la política. 
+
+
+Cumplir con lo pedido en la entrega. Los alumnos tendrán que describir esa trazabilidad y explicar como han llegado a esas políticas.
+
+Genera una:
+- redacción del ejecicio para añadirlo al README.md del respositorio.
+
